@@ -6,15 +6,15 @@
     <title>Profile</title>
     <style>
         body {
-            background-color: #f7f7f7; /* Warna latar belakang */
-            font-family: Arial, sans-serif;
+            background-color: #A9A9A9; /* Warna latar belakang */
+            font-family: Georgia, sans-serif;
         }
 
         .profile-card {
             max-width: 400px;
             margin: 0 auto;
             margin-top: 50px;
-            background-color: #fff; /* Warna latar belakang kartu profil */
+            background-color: 	#FFFAFA; /* Warna latar belakang kartu profil */
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Bayangan kartu profil */
             border-radius: 10px; /* Sudut bulat kartu profil */
             padding: 20px;
